@@ -5,6 +5,11 @@
 			"title":{
 			"$t": "serra.oncloud.gr"
 			}
+		},
+		{
+			"title":{
+			"$t": "http://investdej.oncloud.gr"
+			}
 		}
 		]
 	}
